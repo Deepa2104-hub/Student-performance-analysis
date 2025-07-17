@@ -34,16 +34,16 @@ This project analyzes student performance data using data science techniques to 
 git clone https://github.com/your-username/student-performance-analysis.git
 cd student-performance-analysis
 ```
-###2. Create a Virtual Environment (Optional)
+### 2. Create a Virtual Environment (Optional)
 ```bash
 python -m venv venv
 source venv/bin/activate        # For Windows: venv\Scripts\activate
 ```
-###3. Install Dependencies
+### 3. Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
-###4. Run the Jupyter Notebook
+### 4. Run the Jupyter Notebook
 ```bash
 
 jupyter notebook notebooks/student_performance_analysis.ipynb
@@ -53,7 +53,7 @@ Or run the Python script
 ```bash
 python main.py
 ```
-###📊 Dataset Overview
+### 📊 Dataset Overview
 
 The dataset includes:
 
@@ -73,7 +73,7 @@ The dataset includes:
 
 ```writing score```
 
-###🔍 Key Questions Explored
+### 🔍 Key Questions Explored
 
 How does gender affect performance?
 
@@ -83,7 +83,7 @@ Which subjects are most correlated?
 
 Can we predict student success using ML models?
 
-###📈 Results & Output
+### 📈 Results & Output
 
 Correlation heatmaps
 
